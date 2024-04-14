@@ -1,0 +1,48 @@
+{
+  "data": [
+     {
+      "name": "央视频道",
+      "pic": "https://gitee.com/cuiocean/freed/raw/master/tv/央视频道.png",
+      "url": "https://gitee.com/cuiocean/freed/raw/master/tv/央视频道.m3u",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "英语频道",
+      "pic": "https://gitee.com/cuiocean/freed/raw/master/tv/英语频道.png",
+      "url": "https://gitee.com/cuiocean/freed/raw/master/tv/英语频道.m3u",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": true,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "港澳台",
+      "pic": "https://gitee.com/cuiocean/freed/raw/master/tv/港澳台.png",
+      "url": "https://gitee.com/cuiocean/freed/raw/master/tv/港澳台.m3u",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 1,
+      "webPlus": {}
+    },
+    {
+      "name": "卫视",
+      "pic": "https://gitee.com/cuiocean/freed/raw/master/tv/卫视.png",
+      "url": "https://gitee.com/cuiocean/freed/raw/master/tv/卫视.m3u",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 1,
+      "webPlus": {}
+    }
+  ]
+}
